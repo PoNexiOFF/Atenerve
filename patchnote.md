@@ -17,8 +17,17 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/14/23 (second) - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Features
-* 🌍 /language <choice> : Choose your language
+* 📜 /bot info : Info about the bot.
+* 🔒 /bot ping : Pong.
+* 🔒 /bot shutdown : Shutdown the bot (Only for community staff)
+* 🌍 /language <choice> : Choose your language.
 * ⚙️ /parameters commands [option] : Parameter relating to commands.
+
+### Features Modification
+* 🛠️ /whitelist [user] -> 🔒 /bot whitelist [user]
+* 🛠️ /blacklist [user] -> 🔒 /bot blacklist [user]
+* 🛠️ /unwhitelist <user> -> 🔒 /bot unwhitelist <user>
+* 🛠️ /unblacklist <user> -> 🔒 /bot unblacklist <user>
 
 ---
 
