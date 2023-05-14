@@ -18,17 +18,9 @@ To see the documentation related to Poleftus: [documentation]().
 
 ### New Features
 
-* 🛠️ /whitelist [user] : View all banned user from the adventure (Only for community staff)
-<!---
-### New Functions
-
-* Marketplace auction Updater
-
-### Bug Patchnote
-
-* Auction Updater : Causes repetitive bot crashes when there is more than one auction.
-* 🧭 /inventory auction create : Mismanaged variable causing database crash + error in auction updater.
-
-!>
+* 🛠️ /whitelist [user] : Whitelist a user or see the list of users whitelisted (Only for community staff)
+* 🛠️ /blacklist [user] : Blacklist a user or see the list of users blacklisted (Only for community staff)
+* 🛠️ /unwhitelist <user> : Unwhitelist a user or see the list of users unwhitelisted (Only for community staff)
+* 🛠️ /unblacklist <user> : Unblacklist a user or see the list of users unblacklisted (Only for community staff)
 
 ---
