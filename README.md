@@ -5,8 +5,8 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 ## 📜 » Credits
 
 * 🗃️ Lead Projects: [Ponexi](https://github.com/PoNexiOFF)
-* <p>🖥️ Lead Developers: PhoenixMaster</h3>
-* <p>💻 Other Developer: /</h3>
+* 🖥️ Lead Developers: PhoenixMaster
+* 💻 Other Developer: [Zacharry Jones](https://github.com/ZacharryJones)
 
 ### ❤️ Developed by [Poleftus Interactive](https://discord.gg/CrQ7UTN8am)
 
