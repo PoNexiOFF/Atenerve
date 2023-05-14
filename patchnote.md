@@ -23,6 +23,7 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 * 🌍 /language <choice> : Choose your language.
 * ⚙️ /parameters commands [option] : Parameter relating to commands.
 * 👥 /faction create : Create a faction in the adventure.
+* 👥 /faction info : Info about your faction.
 
 ### Features Modification
 * 🛠️ /whitelist [user] -> 🔒 /bot whitelist [user]
