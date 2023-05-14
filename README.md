@@ -11,6 +11,9 @@ Atenerve is a discord bot with an integrated RPG. This one is very complete and 
 ### ❤️ Developed by [Poleftus Interactive](https://discord.gg/CrQ7UTN8am)
 
 <div id="badges">
+  <a href="https://www.youtube.com/@poleftusinteractive/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
   <a href="https://twitter.com/poleftus">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
