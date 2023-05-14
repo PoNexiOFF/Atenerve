@@ -6,7 +6,7 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 
 To see the documentation related to Poleftus: [documentation]().
 
-### View in-game patchnote
+### View in-discord patchnote
 
 ```
   /patchnote [date of the patchnote]
@@ -14,7 +14,7 @@ To see the documentation related to Poleftus: [documentation]().
 
 ---
 
-## 🛠 05/04/23 - v0.0.0 beta, snapshot ma0.0.1
+## 🛠 05/14/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Features
 
