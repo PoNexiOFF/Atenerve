@@ -4,7 +4,7 @@
 
 For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 
-To see the documentation related to Poleftus: [documentation]().
+To see the documentation related to Poleftus: [documentation](https://github.com/PoNexiOFF/Atenerve/blob/main/documentation.md).
 
 ### View in-discord patchnote
 
