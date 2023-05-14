@@ -4,13 +4,11 @@
 
 For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 
-To see the documentation related to Poleftus: [documentation](https://github.com/PoNexiOFF/Poleftus-Information/blob/main/documentation.md).
-
-To buy somethings, visit our [shop](https://ponexi.mysellix.io/).
+To see the documentation related to Poleftus: [documentation]().
 
 ### View in-game patchnote
 
-```bash
+```
   /patchnote [date of the patchnote]
 ```
 
