@@ -16,7 +16,8 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 
 ## 🛠 05/15/23 (second) - v0.0.0, snapshot 0.0 (devbuild)
 
-### New Features
+### New Feature
+* [👥] /faction certify : Info about your faction.
 
 ---
 
