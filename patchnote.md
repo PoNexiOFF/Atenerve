@@ -17,6 +17,12 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/14/23 (second) - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Features
+
+---
+
+## 🛠 05/14/23 (second) - v0.0.0, snapshot 0.0 (devbuild)
+
+### New Features
 * 📜 /bot info : Info about the bot.
 * 🔒 /bot ping : Pong.
 * 🔒 /bot shutdown : Shutdown the bot (Only for community staff)
