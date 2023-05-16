@@ -23,7 +23,7 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 * 🔒 /bot unblacklist `<user>`
 
 ### ⚙️ » Parameters Panel
-* ⚙️ /parameters commands [option]
+* /parameters commands `[option]`
 
 ### 🧭 » Adventure
 #### 👥 » Faction Panel
