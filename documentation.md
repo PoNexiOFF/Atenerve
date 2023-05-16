@@ -12,6 +12,8 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 
 ---
 
+The parameters between `<...>` are mandatory, while the parameters between `[...]` them are optional.
+
 ## 📜 » Commands
 ### 📜 » Bot Panel
 * /bot info : Info about the bot.
