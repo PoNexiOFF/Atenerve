@@ -21,3 +21,5 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 * 🔒 /bot blacklist [user]
 * 🔒 /bot unwhitelist <user>
 * 🔒 /bot unblacklist <user>
+
+### 
