@@ -26,3 +26,6 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 * ⚙️ /parameters commands [option]
 
 ### 🧭 » Adventure
+#### 👥 » Faction Panel
+* 👥 /faction create
+* 👥 /faction info
