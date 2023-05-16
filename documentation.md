@@ -15,11 +15,12 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 ## 📜 » Commands
 ### 📜 » Bot Panel
 * /bot info : Info about the bot.
-* 🔒 /bot ping : Pong.
-* 🔒 /bot shutdown : Shutdown the bot (Only for community staff)
+* 🔒 /bot ping
+* 🔒 /bot shutdown
 * 🔒 /bot whitelist [user]
 * 🔒 /bot blacklist [user]
 * 🔒 /bot unwhitelist <user>
 * 🔒 /bot unblacklist <user>
 
-### ⚙️ »
+### ⚙️ » Parameters Panel
+* ⚙️ /parameters commands [option]
