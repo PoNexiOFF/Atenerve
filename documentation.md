@@ -11,3 +11,5 @@ For support, join our [discord](https://discord.gg/CrQ7UTN8am).
 ```
 
 ---
+
+## 📜 » Commands
