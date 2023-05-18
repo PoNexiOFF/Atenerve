@@ -17,6 +17,7 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/18/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Feature
+* 📜
 * 🎒 /bag : View your bag.
 
 ### Features Modification
