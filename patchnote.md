@@ -17,7 +17,7 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/18/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Feature
-* 📜 /order join <ordername> : Join a order.
+* 📜 /order join `<ordername>` : Join a order.
 * 📜 /order info : See info about order.
 * 🎒 /bag : View your bag.
 
