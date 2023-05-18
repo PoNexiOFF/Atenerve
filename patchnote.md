@@ -45,10 +45,10 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 * 👥 /faction info : Info about your faction.
 
 ### Features Modification
-* 🛠️ /whitelist `[user]` -> 🔒 [📋] /bot whitelist [user]
-* 🛠️ /blacklist `[user]` -> 🔒 [📋] /bot blacklist [user]
-* 🛠️ /unwhitelist `<user>` -> 🔒 [📋] /bot unwhitelist <user>
-* 🛠️ /unblacklist `<user>` -> 🔒 [📋] /bot unblacklist <user>
+* 🛠️ /whitelist `[user]` -> 🔒 [📋] /bot whitelist `[user]`
+* 🛠️ /blacklist `[user]` -> 🔒 [📋] /bot blacklist `[user]`
+* 🛠️ /unwhitelist `<user>` -> 🔒 [📋] /bot unwhitelist `<user>`
+* 🛠️ /unblacklist `<user>` -> 🔒 [📋] /bot unblacklist `<user>`
 
 ---
 
