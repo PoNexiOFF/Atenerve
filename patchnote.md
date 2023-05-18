@@ -29,7 +29,7 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/15/23 (second) - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Feature
-* 🔒 [👥] /faction certify <factionid> : Certify a faction.
+* 🔒 [👥] /faction certify `<factionid>` : Certify a faction.
 
 ---
 
@@ -39,8 +39,8 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 * 📜 /bot info : Info about the bot.
 * 🔒 [📋] /bot ping : Pong.
 * 🔒 [📋] /bot shutdown : Shutdown the bot (Only for community staff)
-* 🌍 /language <choice> : Choose your language.
-* ⚙️ /parameters commands [option] : Parameter relating to commands.
+* 🌍 /language `<choice>` : Choose your language.
+* ⚙️ /parameters commands `[option]` : Parameter relating to commands.
 * 👥 /faction create : Create a faction in the adventure.
 * 👥 /faction info : Info about your faction.
 
