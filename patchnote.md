@@ -55,9 +55,9 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/14/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Features
-* 🛠️ /whitelist [user] : Whitelist a user or see the list of users whitelisted (Only for community staff)
-* 🛠️ /blacklist [user] : Blacklist a user or see the list of users blacklisted (Only for community staff)
-* 🛠️ /unwhitelist <user> : Unwhitelist a user or see the list of users unwhitelisted (Only for community staff)
-* 🛠️ /unblacklist <user> : Unblacklist a user or see the list of users unblacklisted (Only for community staff)
+* 🛠️ /whitelist `[user]` : Whitelist a user or see the list of users whitelisted (Only for community staff)
+* 🛠️ /blacklist `[user]` : Blacklist a user or see the list of users blacklisted (Only for community staff)
+* 🛠️ /unwhitelist `<user>` : Unwhitelist a user or see the list of users unwhitelisted (Only for community staff)
+* 🛠️ /unblacklist `<user>` : Unblacklist a user or see the list of users unblacklisted (Only for community staff)
 
 ---
