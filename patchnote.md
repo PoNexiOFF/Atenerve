@@ -17,7 +17,7 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/19/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Feature
-* 🕵️‍♂️ /rob `<user>` : Rob a user bag.
+* 🧤 /rob `<user>` : Rob a user bag.
 
 ---
 
