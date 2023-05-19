@@ -17,6 +17,7 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ## 🛠 05/19/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Feature
+* ⚙️ /parameters adventure `[option]` : Parameter relating to adventure.
 * 🧤 /rob `<user>` : Rob a user bag.
 
 ---
