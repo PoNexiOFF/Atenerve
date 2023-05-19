@@ -35,6 +35,10 @@ Commands with `"🔒"` are not usable by users.
 * /faction create
 * /faction info
 * 🔒 /faction certify `<factionid>`
+#### 📜 » Order
+* /order info
+* /order join
 #### 🎒 » User Profile
 * /bag
 #### 🗃️ » Other Commands
+* /rob
