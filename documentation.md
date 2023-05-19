@@ -28,6 +28,7 @@ Commands with `"🔒"` are not usable by users.
 
 ### ⚙️ » Parameters Panel
 * /parameters commands `[option]`
+* /parameters adventure `[option]`
 
 ### 🧭 » Adventure
 #### 👥 » Faction Panel
