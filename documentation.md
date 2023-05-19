@@ -35,3 +35,6 @@ Commands with `"🔒"` are not usable by users.
 * /faction create
 * /faction info
 * 🔒 /faction certify `<factionid>`
+#### 🎒 » User Profile
+* /bag
+#### 🗃️ » Other Commands
