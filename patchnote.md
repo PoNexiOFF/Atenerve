@@ -20,8 +20,8 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 * ⚙️ /parameters adventure `[option]` : Parameter relating to adventure.
 * 🧤 /rob `<user>` : Rob a user bag.
 
-### Bug Correction
-* ⚙️ /parameters commands `[option]` : Permissions problem to execute the command.
+### Bug Patch
+* 🩹 /parameters commands `[option]` : Permissions problem to execute the command.
 
 ---
 
