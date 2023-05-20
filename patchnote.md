@@ -20,8 +20,8 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 * 🛒 /shop info : Information about product.
 * 🛒 /shop buy `[product]` : Buy something in the shop.
 
-### Bug Patch
-* 🩹 /parameters commands `[option]` : Permissions problem to execute the command.
+### Features Modification
+* Changed the price of bag security upgrades in the shop.
 
 ---
 
