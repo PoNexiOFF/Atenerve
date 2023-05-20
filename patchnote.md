@@ -19,6 +19,9 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ### New Feature
 * 🛒 /shop info : Information about product.
 * 🛒 /shop buy `[product]` : Buy something in the shop.
+* 🩹 /patchnote latest : See the latest patchnote.
+* 📬 /mail list : List of your mail.
+* 📬 /mail open `<id>` : Open a mail.
 
 ### Features Modification
 * Changed the price of bag security upgrades in the shop.
