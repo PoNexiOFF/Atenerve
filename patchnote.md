@@ -14,6 +14,17 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 
 ---
 
+## 🛠 05/20/23 - v0.0.0, snapshot 0.0 (devbuild)
+
+### New Feature
+* 🛒 /shop info : Information about product.
+* 🛒 /shop buy `[product]` : Buy something in the shop.
+
+### Bug Patch
+* 🩹 /parameters commands `[option]` : Permissions problem to execute the command.
+
+---
+
 ## 🛠 05/19/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Feature
