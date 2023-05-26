@@ -14,6 +14,13 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 
 ---
 
+## 🛠 05/26/23 - v0.0.0, snapshot 0.0 (devbuild)
+
+### New Feature
+* 👥 /faction leave : Leave your current faction.
+
+---
+
 ## 🛠 05/22/23 - v0.0.0, snapshot 0.0 (devbuild)
 
 ### New Feature
