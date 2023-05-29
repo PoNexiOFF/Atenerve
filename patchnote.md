@@ -9,7 +9,7 @@ To see the documentation related to Poleftus: [documentation](https://github.com
 ### View in-discord patchnote
 
 ```
-  /patchnote [date of the patchnote]
+  /patchnote
 ```
 
 ---
